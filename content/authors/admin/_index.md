@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Felix Dwinger
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Gothenburg
+  url: https://www.gu.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on democratic backsliding and autocratic politics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Democratic Backsliding
+- Autocratic Politics
+- Applied Game Theory
 
 # Education to show in About widget
 education:
@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome! I am a Ph.D. candidate in the Department of Political Science at the University of Gothenburg, Sweden. My research focuses on democratic backsliding and autocratic politics. In all my work I employ game theory. For empirical testing, I primarily use econometric methods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+While pursuing my Ph.D., I was also a Visiting Assistant Researcher at Yale and a Guest Doctoral Researcher at the University of Konstanz, Germany. Prior to joining the University of Gothenburg, I was an Assistant Researcher at the University of Mannheim, Germany.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
