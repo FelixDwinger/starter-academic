@@ -68,4 +68,4 @@ Welcome! I am a Ph.D. candidate in the Department of Political Science at the Un
 
 While pursuing my Ph.D., I was also a Visiting Assistant Researcher at Yale and a Guest Doctoral Researcher at the University of Konstanz, Germany. Prior to joining the University of Gothenburg, I was an Assistant Researcher at the University of Mannheim, Germany.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="cv" pack="ai" >}} Download my {{< staticref "media/CVPublic.pdf" "newtab" >}}resumé{{< /staticref >}}.
