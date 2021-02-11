@@ -23,14 +23,14 @@ interests:
 - Applied Game Theory
 
 # Education to show in About widget
-education:
-  courses:
-  - course: M.A. in Political Science
-    institution: Heidelberg University
-    year: 2015
-  - course: B.A. in Political Science
-    institution: University of Regensburg
-    year: 2013
+# education:
+#  courses:
+#  - course: M.A. in Political Science
+#    institution: Heidelberg University
+#    year: 2015
+#  - course: B.A. in Political Science
+#    institution: University of Regensburg
+#    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
